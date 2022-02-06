@@ -1,2 +1,4 @@
 #dependencias
 node_modules/
+cypress/screenshots
+cypress/videos
